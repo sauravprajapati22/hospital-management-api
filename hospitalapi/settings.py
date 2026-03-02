@@ -45,7 +45,6 @@ INSTALLED_APPS = [
     'doctors',
     'patients',
     'appointments',
-    'prescriptions',
     'django_filters',
 ]
 
